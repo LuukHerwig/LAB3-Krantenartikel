@@ -1,0 +1,22 @@
+body 
+	{background-color: lightblue;
+	 padding: 20px;}
+
+#img1
+	{border: 2px solid black;
+	 float: left;
+	 margin: 20px;}
+
+#img2
+	{border: 2px solid black;
+	 float: right;
+	 margin: 20px;}
+
+#img3
+	{border: 2px solid black;
+	 float: left;
+	 margin: 20px;}
+
+p
+	{font-family: verdana;
+	 font-size: 16px;}
